@@ -1,0 +1,24 @@
+# Data pribadi / berkas testing
+*.xlsx
+~$*.xlsx
+
+# Sistem operasi
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Log
+*.log
+
+# Environment
+.env
+.env.*
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+
+# Dependensi (jika ditambahkan nanti)
+node_modules/
+vendor/
