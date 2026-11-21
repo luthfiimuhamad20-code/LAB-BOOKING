@@ -22,3 +22,7 @@ Desktop.ini
 # Dependensi (jika ditambahkan nanti)
 node_modules/
 vendor/
+
+# Output video Remotion
+marketing/out/
+marketing/.remotion/

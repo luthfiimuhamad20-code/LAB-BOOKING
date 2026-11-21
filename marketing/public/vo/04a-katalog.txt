@@ -1,0 +1,1 @@
+Lihat daftar lab: lokasi, kapasitas, fasilitas, dan statusnya.
